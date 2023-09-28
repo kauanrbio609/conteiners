@@ -1,0 +1,14 @@
+body {
+    background-color: darkgoldenrod;
+}
+
+h1 {
+    color: cyan;
+    background-color: darkblue;
+}
+
+h2 {
+    color: crimson;
+    background-color: black;
+    text-align: center;
+}
